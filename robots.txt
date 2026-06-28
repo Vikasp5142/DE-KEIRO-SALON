@@ -1,8 +1,0 @@
-# Da Keiro Studiio — robots.txt
-# This is a small public-facing marketing/booking site — there's nothing
-# here that needs to be hidden from search engines, so we allow everything.
-
-User-agent: *
-Allow: /
-
-Sitemap: https://dakeiro.netlify.app/sitemap.xml
